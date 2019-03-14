@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>D:\lxy\Downloads\network.png</Source>
+    <SmallTileSource>D:\lxy\Downloads\network.png</SmallTileSource>
+    <MediumTileSource>D:\lxy\Downloads\network.png</MediumTileSource>
+    <WideTileSource>D:\lxy\Downloads\network.png</WideTileSource>
+    <LargeTileSource>D:\lxy\Downloads\network.png</LargeTileSource>
+    <AppIconSource>D:\lxy\Downloads\network.png</AppIconSource>
+    <SplashScreenSource>D:\lxy\Downloads\network.png</SplashScreenSource>
+    <PackageLogoSource>D:\lxy\Downloads\network.png</PackageLogoSource>
+    <BadgeLogoSource>D:\lxy\Downloads\network.png</BadgeLogoSource>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\lxy80\Desktop\list.png</Source>
+    <SmallTileSource>C:\Users\lxy80\Desktop\list.png</SmallTileSource>
+    <MediumTileSource>C:\Users\lxy80\Desktop\list.png</MediumTileSource>
+    <WideTileSource>C:\Users\lxy80\Desktop\list.png</WideTileSource>
+    <LargeTileSource>C:\Users\lxy80\Desktop\list.png</LargeTileSource>
+    <AppIconSource>C:\Users\lxy80\Desktop\list.png</AppIconSource>
+    <SplashScreenSource>C:\Users\lxy80\Desktop\list.png</SplashScreenSource>
+    <BadgeLogoSource>C:\Users\lxy80\Desktop\list.png</BadgeLogoSource>
+    <PackageLogoSource>C:\Users\lxy80\Desktop\list.png</PackageLogoSource>
+    <AppxPackageIsForStore>False</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>

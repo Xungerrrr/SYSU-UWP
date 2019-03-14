@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XUNGERRRR</Machine>
+    <WindowsUser>lxy80</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>3a51f7da-3348-40ce-b616-964b88bbed28</PackageIdentityName>
+    <PackageIdentityPublisher>CN=lxy80</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\obj\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\x64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>C608470166CA1BE05932A2B5ADB62A27E7FD0CB00AEE0FEDCFC4CBA5DD5F711F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3a51f7da-3348-40ce-b616-964b88bbed28_1.0.0.0_x64__v0897sccc7nrp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3a51f7da-3348-40ce-b616-964b88bbed28_v0897sccc7nrp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3a51f7da-3348-40ce-b616-964b88bbed28</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=lxy80</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\x64\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-03-29T01:45:42.318</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\x64\Release\ilc\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+      <Modified>2018-03-28T16:32:20.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\x64\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-03-09T15:09:08.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\x64\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-03-09T15:09:08.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-03-09T15:09:08.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-03-09T15:09:08.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-03-09T15:09:08.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\x64\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-03-09T15:09:08.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-03-09T15:09:08.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\x64\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2016-06-13T12:46:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\x64\Release\ilc\MyList.dll">
+      <PackagePath>MyList.dll</PackagePath>
+      <Modified>2018-03-29T01:45:42.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\x64\Release\ilc\MyList.exe">
+      <PackagePath>MyList.exe</PackagePath>
+      <Modified>2018-03-29T01:45:42.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\x64\Release\ilc\MyList.pdb">
+      <PackagePath>MyList.pdb</PackagePath>
+      <Modified>2018-03-29T01:45:42.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\x64\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-03-29T01:45:14.133</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

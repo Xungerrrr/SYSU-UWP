@@ -1,0 +1,6 @@
+MainPackage=E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\ARM\Debug\MyList_1.0.0.0_ARM_Debug.appx
+SymbolPackage=E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\AppPackages\MyList_1.0.0.0_Debug_Test\MyList_1.0.0.0_ARM_Debug.appxsym
+ResourcePack=E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\ARM\Debug\MyList_1.0.0.0_scale-100.appx
+ResourcePack=E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\ARM\Debug\MyList_1.0.0.0_scale-125.appx
+ResourcePack=E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\ARM\Debug\MyList_1.0.0.0_scale-150.appx
+ResourcePack=E:\Xungerrrr\SYSU\大二下\现代操作系统应用开发\MOSAD Workspace\MyList\MyList\bin\ARM\Debug\MyList_1.0.0.0_scale-400.appx
